@@ -24,7 +24,7 @@ Per eseguire questo progetto, è necessario avere un server web con supporto PHP
 1. **Clona il repository:**
    Apri il terminale e usa il comando git per clonare il repository nella tua cartella di destinazione:
    ```bash
-   git clone https://github.com/masonedotcloud/webp-to-png.git
+   git clone https://github.com/masonedotcloud/webp-to-png-converter.git
    ```
 
 2. **Configura il server:**
