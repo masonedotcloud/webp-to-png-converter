@@ -42,7 +42,7 @@ Per eseguire questo progetto, è necessario avere un server web con supporto PHP
 5. **Accesso all'interfaccia web:**
    Vai nel tuo browser e accedi al percorso dove hai caricato il progetto. Ad esempio:
    ```
-   http://tuo-dominio.com/webp-to-png/
+   http://tuo-dominio.com/webp-to-png-converter/
    ```
 
 ## Utilizzo
